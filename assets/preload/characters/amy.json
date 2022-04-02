@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				265,
+				280
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle instancia ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				386,
+				279
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down instancia ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				413
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up instancia ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				338,
+				278
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right instancia ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				217,
+				263
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left instancia ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				267,
+				289
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss instancia ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				267,
+				289
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss instancia ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				267,
+				289
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss instancia ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				267,
+				289
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miss instancia ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				550,
+				314
+			],
+			"anim": "entry",
+			"fps": 24,
+			"name": "entry instancia ",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Amy",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "amy",
+	"flip_x": true,
+	"healthbar_colors": [
+		247,
+		157,
+		180
+	],
+	"camera_position": [
+		160,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

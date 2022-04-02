@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				595,
+				420
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle instancia ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				667,
+				416
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down instancia ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				596,
+				615
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up instancia ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				738,
+				416
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left instancia ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				594,
+				416
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right instancia ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				690,
+				70
+			],
+			"anim": "spindash",
+			"fps": 24,
+			"name": "spin dash instancia ",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		61,
+		180
+	],
+	"camera_position": [
+		-560,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
