@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonic.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down instancia 10000" x="1678" y="1000" width="764" height="1000" frameX="-73" frameY="0" frameWidth="921" frameHeight="1048"/>
+	<SubTexture name="down instancia 10001" x="5701" y="1000" width="773" height="987" frameX="-67" frameY="-21" frameWidth="921" frameHeight="1048"/>
+	<SubTexture name="down instancia 10002" x="6474" y="1000" width="780" height="975" frameX="-62" frameY="-41" frameWidth="921" frameHeight="1048"/>
+	<SubTexture name="down instancia 10003" x="7254" y="1000" width="787" height="962" frameX="-57" frameY="-62" frameWidth="921" frameHeight="1048"/>
+	<SubTexture name="down instancia 10004" x="4897" y="1000" width="804" height="949" frameX="-52" frameY="-83" frameWidth="921" frameHeight="1048"/>
+	<SubTexture name="down instancia 10005" x="2542" y="0" width="827" height="936" frameX="-46" frameY="-104" frameWidth="921" frameHeight="1048"/>
+	<SubTexture name="down instancia 10006" x="913" y="0" width="849" height="924" frameX="-41" frameY="-124" frameWidth="921" frameHeight="1048"/>
+	<SubTexture name="down instancia 10007" x="7254" y="1962" width="921" height="700" frameX="0" frameY="-305" frameWidth="921" frameHeight="1048"/>
+	<SubTexture name="down instancia 10008" x="1678" y="1000" width="764" height="1000" frameX="-73" frameY="0" frameWidth="921" frameHeight="1048"/>
+	<SubTexture name="idle instancia 10000" x="6427" y="0" width="765" height="1000" frameX="0" frameY="-5" frameWidth="765" frameHeight="1005"/>
+	<SubTexture name="idle instancia 10001" x="7192" y="0" width="765" height="1000" frameX="0" frameY="-5" frameWidth="765" frameHeight="1005"/>
+	<SubTexture name="idle instancia 10002" x="913" y="924" width="765" height="1000" frameX="0" frameY="-5" frameWidth="765" frameHeight="1005"/>
+	<SubTexture name="idle instancia 10003" x="2542" y="936" width="765" height="1000" frameX="0" frameY="-5" frameWidth="765" frameHeight="1005"/>
+	<SubTexture name="idle instancia 10004" x="3369" y="0" width="765" height="1005"/>
+	<SubTexture name="idle instancia 10005" x="0" y="961" width="765" height="1000" frameX="0" frameY="-5" frameWidth="765" frameHeight="1005"/>
+	<SubTexture name="left instancia 10000" x="0" y="0" width="913" height="961" frameX="0" frameY="-30" frameWidth="913" frameHeight="1000"/>
+	<SubTexture name="left instancia 10001" x="1762" y="0" width="780" height="1000" frameX="-122" frameY="0" frameWidth="913" frameHeight="1000"/>
+	<SubTexture name="left instancia 10002" x="1762" y="0" width="780" height="1000" frameX="-122" frameY="0" frameWidth="913" frameHeight="1000"/>
+	<SubTexture name="left instancia 10003" x="5662" y="0" width="765" height="1000" frameX="-143" frameY="0" frameWidth="913" frameHeight="1000"/>
+	<SubTexture name="left instancia 10004" x="5662" y="0" width="765" height="1000" frameX="-143" frameY="0" frameWidth="913" frameHeight="1000"/>
+	<SubTexture name="left instancia 10005" x="5662" y="0" width="765" height="1000" frameX="-143" frameY="0" frameWidth="913" frameHeight="1000"/>
+	<SubTexture name="right instancia 10000" x="3307" y="1005" width="764" height="966" frameX="-124" frameY="0" frameWidth="888" frameHeight="966"/>
+	<SubTexture name="right instancia 10001" x="765" y="1924" width="716" height="966" frameX="-37" frameY="0" frameWidth="888" frameHeight="966"/>
+	<SubTexture name="right instancia 10002" x="765" y="1924" width="716" height="966" frameX="-37" frameY="0" frameWidth="888" frameHeight="966"/>
+	<SubTexture name="right instancia 10003" x="4134" y="1003" width="720" height="966" frameX="0" frameY="0" frameWidth="888" frameHeight="966"/>
+	<SubTexture name="right instancia 10004" x="4134" y="1003" width="720" height="966" frameX="0" frameY="0" frameWidth="888" frameHeight="966"/>
+	<SubTexture name="right instancia 10005" x="4134" y="1003" width="720" height="966" frameX="0" frameY="0" frameWidth="888" frameHeight="966"/>
+	<SubTexture name="spin dash instancia 10000" x="5494" y="2605" width="682" height="600" frameX="-44" frameY="-137" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10001" x="4854" y="1949" width="812" height="590" frameX="0" frameY="-166" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10002" x="4071" y="1969" width="712" height="619" frameX="-91" frameY="-153" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10003" x="6377" y="2594" width="680" height="605" frameX="-51" frameY="-116" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10004" x="3010" y="1971" width="813" height="588" frameX="-70" frameY="-65" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10005" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10006" x="1481" y="2000" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10007" x="4783" y="2539" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10008" x="0" y="1961" width="714" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10009" x="3010" y="2559" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10010" x="6474" y="1975" width="711" height="619" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10011" x="0" y="2579" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10012" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10013" x="3721" y="2588" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10014" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10015" x="1481" y="2000" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10016" x="4783" y="2539" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10017" x="0" y="1961" width="714" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10018" x="3010" y="2559" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10019" x="6474" y="1975" width="711" height="619" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10020" x="0" y="2579" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10021" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10022" x="3721" y="2588" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10023" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10024" x="1481" y="2000" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10025" x="4783" y="2539" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10026" x="0" y="1961" width="714" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10027" x="3010" y="2559" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10028" x="6474" y="1975" width="711" height="619" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10029" x="0" y="2579" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10030" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10031" x="3721" y="2588" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10032" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10033" x="1481" y="2000" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10034" x="4783" y="2539" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10035" x="0" y="1961" width="714" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10036" x="3010" y="2559" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10037" x="6474" y="1975" width="711" height="619" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10038" x="0" y="2579" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10039" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10040" x="3721" y="2588" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10041" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10042" x="1481" y="2000" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10043" x="4783" y="2539" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10044" x="0" y="1961" width="714" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10045" x="3010" y="2559" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10046" x="6474" y="1975" width="711" height="619" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10047" x="0" y="2579" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10048" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10049" x="3721" y="2588" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10050" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10051" x="1481" y="2000" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10052" x="4783" y="2539" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10053" x="0" y="1961" width="714" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10054" x="3010" y="2559" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10055" x="6474" y="1975" width="711" height="619" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10056" x="0" y="2579" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10057" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10058" x="3721" y="2588" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10059" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10060" x="1481" y="2000" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10061" x="4783" y="2539" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10062" x="0" y="1961" width="714" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10063" x="3010" y="2559" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10064" x="6474" y="1975" width="711" height="619" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10065" x="0" y="2579" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10066" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10067" x="3721" y="2588" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10068" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10069" x="1481" y="2000" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10070" x="4783" y="2539" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10071" x="0" y="1961" width="714" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10072" x="3010" y="2559" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10073" x="6474" y="1975" width="711" height="619" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10074" x="0" y="2579" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10075" x="5666" y="1987" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="spin dash instancia 10076" x="3721" y="2588" width="711" height="618" frameX="-280" frameY="0" frameWidth="994" frameHeight="772"/>
+	<SubTexture name="up instancia 10000" x="2442" y="1936" width="568" height="1195" frameX="-109" frameY="0" frameWidth="765" frameHeight="1199"/>
+	<SubTexture name="up instancia 10001" x="4134" y="0" width="763" height="1003" frameX="-2" frameY="-184" frameWidth="765" frameHeight="1199"/>
+	<SubTexture name="up instancia 10002" x="4897" y="0" width="765" height="1000" frameX="0" frameY="-199" frameWidth="765" frameHeight="1199"/>
+	<SubTexture name="up instancia 10003" x="4897" y="0" width="765" height="1000" frameX="0" frameY="-199" frameWidth="765" frameHeight="1199"/>
+	<SubTexture name="up instancia 10004" x="4897" y="0" width="765" height="1000" frameX="0" frameY="-199" frameWidth="765" frameHeight="1199"/>
+	<SubTexture name="up instancia 10005" x="4897" y="0" width="765" height="1000" frameX="0" frameY="-199" frameWidth="765" frameHeight="1199"/>
+</TextureAtlas>
