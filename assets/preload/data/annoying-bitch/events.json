@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "bg",
+		"player1": "amy",
+		"player2": "sonic",
+		"player3": null,
+		"events": [
+			[
+				147181.818181818,
+				[
+					[
+						"Play Animation",
+						"spindash",
+						"dad"
+					]
+				]
+			],
+			[
+				147727.272727273,
+				[
+					[
+						"Play Animation",
+						"spindash",
+						"dad"
+					]
+				]
+			],
+			[
+				148181.818181818,
+				[
+					[
+						"Play Animation",
+						"spindash",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Annoying bitch"
+	}
+}
