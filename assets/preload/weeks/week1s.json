@@ -1,0 +1,32 @@
+{
+	"storyName": "Shut Up",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Annoying Bitch",
+			"sonic",
+			[
+				6,
+				53,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Amy",
+	"hiddenUntilUnlocked": false
+}
